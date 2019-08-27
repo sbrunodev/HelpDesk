@@ -1,0 +1,39 @@
+body{
+    font-size:12px;
+    font-family: verdana;
+}
+
+::-webkit-input-placeholder {
+   
+   font: 13px verdana;
+}
+
+.submit input {
+	width: auto;
+	padding: 9px 15px;
+	background: #617798;
+	border: 0;
+	font-size: 14px;
+	color: #FFFFFF;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	}
+ 
+.Pesquisar{
+           color:black;     
+}
+
+select {
+        width:120px;
+        height:25px;
+        font-size: 12px;      
+}
+        
+input[type=text]{     
+    height:26px;
+    font-size: 14px;
+    font-family: verdana;
+}
+
+.Ponto{color:red;}
+
